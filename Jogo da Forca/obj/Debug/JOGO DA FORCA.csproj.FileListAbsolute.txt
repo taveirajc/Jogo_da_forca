@@ -1,0 +1,11 @@
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\bin\Debug\NOVOFORCA.exe.config
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\bin\Debug\NOVOFORCA.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\bin\Debug\NOVOFORCA.pdb
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\obj\Debug\JOGO DA FORCA.csprojAssemblyReference.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\obj\Debug\NOVOFORCA.Form1.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\obj\Debug\NOVOFORCA.Properties.Resources.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\obj\Debug\NOVOFORCA.TELA_INICIAL.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\obj\Debug\JOGO DA FORCA.csproj.GenerateResource.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\obj\Debug\JOGO DA FORCA.csproj.CoreCompileInputs.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\obj\Debug\NOVOFORCA.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo da Forca\JOGO DA FORCA\obj\Debug\NOVOFORCA.pdb

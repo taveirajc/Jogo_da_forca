@@ -1,0 +1,39 @@
+c:\users\taveira\documents\visual studio 2012\Projects\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.Form1.resources
+c:\users\taveira\documents\visual studio 2012\Projects\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.Properties.Resources.resources
+c:\users\taveira\documents\visual studio 2012\Projects\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.csproj.GenerateResource.Cache
+c:\users\taveira\documents\visual studio 2012\Projects\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.exe
+c:\users\taveira\documents\visual studio 2012\Projects\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.pdb
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.TELA_INICIAL.resources
+C:\Users\taveira\documents\visual studio 2012\Projects\NOVOFORCA\NOVOFORCA\NOVOFORCA.exe.config
+C:\Users\taveira\documents\visual studio 2012\Projects\NOVOFORCA\NOVOFORCA\NOVOFORCA.exe
+C:\Users\taveira\documents\visual studio 2012\Projects\NOVOFORCA\NOVOFORCA\NOVOFORCA.pdb
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\NOVOFORCA.exe.config
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.exe
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.pdb
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.exe.config
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.exe
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.pdb
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.csprojResolveAssemblyReference.cache
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.Form1.resources
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.Properties.Resources.resources
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.TELA_INICIAL.resources
+C:\Users\taveira\Google Drive\PROJETOS C#_RECENTES\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.csproj.GenerateResource.Cache
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.exe.config
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.exe
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.pdb
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.exe
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.pdb
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.Form1.resources
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.Properties.Resources.resources
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.TELA_INICIAL.resources
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.csproj.GenerateResource.Cache
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.exe.config
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\bin\Debug\NOVOFORCA.pdb
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.csprojAssemblyReference.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.Form1.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.Properties.Resources.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.TELA_INICIAL.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.csproj.GenerateResource.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\NOVOFORCA\NOVOFORCA\obj\Debug\NOVOFORCA.pdb
